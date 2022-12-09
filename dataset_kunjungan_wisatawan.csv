@@ -1,0 +1,1326 @@
+No,Country,Tahun,Jumlah
+0,Albania,1995,304
+1,Algeria,1995,520
+2,Anguilla,1995,107
+3,Aruba,1995,912
+4,Azerbaijan,1995,93
+5,Bahamas,1995,3239
+6,Bahrain,1995,2311
+7,Bermuda,1995,557
+8,Bulgaria,1995,8005
+9,Cayman Islands,1995,1044
+10,Costa Rica,1995,924
+11,Croatia,1995,161
+12,Curacao,1995,396
+13,Dominican Republic,1995,1806
+14,Georgia,1995,85
+15,Grenada,1995,369
+16,Guatemala,1995,563
+17,Haiti,1995,370
+18,Hong Kong China,1995,102
+19,Hungary,1995,3924
+20,Iceland,1995,211
+21,Indonesia,1995,4324
+22,Italy,1995,55706
+23,Jamaica,1995,1752
+24,Japan,1995,3345
+25,Jordan,1995,3277
+26,Korea Republic Of,1995,3753
+27,Lao People S Democratic Republic,1995,346
+28,Latvia,1995,1633
+29,Lesotho,1995,209
+30,Macao China,1995,7752
+31,Malta,1995,1193
+32,Martinique,1995,885
+33,Mauritius,1995,437
+34,Mongolia,1995,108
+35,Namibia,1995,421
+36,New Caledonia,1995,122
+37,New Zealand,1995,1409
+38,Nicaragua,1995,341
+39,Romania,1995,5445
+40,Seychelles,1995,127
+41,Singapore,1995,7137
+42,Sint Maarten Dutch Part,1995,1024
+43,South Africa,1995,4684
+44,Spain,1995,5246
+45,Sri Lanka,1995,414
+46,Taiwan Province Of China,1995,2332
+47,Trinidad And Tobago,1995,282
+48,United Kingdom,1995,23537
+49,United States Of America,1995,79732
+50,United States Virgin Islands,1995,1741
+51,Vanuatu,1995,82
+52,Viet Nam,1995,1351
+53,Albania,1996,287
+54,Algeria,1996,605
+55,Anguilla,1996,86
+56,Aruba,1996,957
+57,Azerbaijan,1996,210
+58,Bahamas,1996,3416
+59,Bahrain,1996,1988
+60,Bermuda,1996,570
+61,Bulgaria,1996,6811
+62,Cayman Islands,1996,1173
+63,Costa Rica,1996,940
+64,Croatia,1996,19085
+65,Curacao,1996,387
+66,Dominican Republic,1996,2037
+67,Georgia,1996,117
+68,Grenada,1996,386
+69,Guatemala,1996,520
+70,Haiti,1996,400
+71,Hong Kong China,1996,12974
+72,Hungary,1996,39833
+73,Iceland,1996,223
+74,Indonesia,1996,5034
+75,Italy,1996,59805
+76,Jamaica,1996,1821
+77,Japan,1996,3837
+78,Jordan,1996,3164
+79,Korea Republic Of,1996,3684
+80,Lao People S Democratic Republic,1996,403
+81,Latvia,1996,175
+82,Lesotho,1996,312
+83,Macao China,1996,8151
+84,Malta,1996,1123
+85,Martinique,1996,885
+86,Mauritius,1996,509
+87,Mongolia,1996,71
+88,Namibia,1996,560
+89,New Caledonia,1996,138
+90,New Zealand,1996,1529
+91,Nicaragua,1996,388
+92,Romania,1996,5205
+93,Seychelles,1996,142
+94,Singapore,1996,7292
+95,Sint Maarten Dutch Part,1996,1022
+96,South Africa,1996,5186
+97,Spain,1996,55077
+98,Sri Lanka,1996,315
+99,Taiwan Province Of China,1996,2358
+100,Trinidad And Tobago,1996,317
+101,United Kingdom,1996,25163
+102,United States Of America,1996,82756
+103,United States Virgin Islands,1996,1779
+104,Vanuatu,1996,103
+105,Viet Nam,1996,1607
+106,Albania,1997,119
+107,Algeria,1997,635
+108,Anguilla,1997,114
+109,Aruba,1997,947
+110,Azerbaijan,1997,306
+111,Bahamas,1997,3446
+112,Bahrain,1997,26
+113,Bermuda,1997,562
+114,Bulgaria,1997,7543
+115,Cayman Islands,1997,1248
+116,Costa Rica,1997,1013
+117,Croatia,1997,2366
+118,Curacao,1997,422
+119,Dominican Republic,1997,2482
+120,Georgia,1997,313
+121,Grenada,1997,368
+122,Guatemala,1997,576
+123,Haiti,1997,387
+124,Hong Kong China,1997,11273
+125,Hungary,1997,37315
+126,Iceland,1997,223
+127,Indonesia,1997,5185
+128,Italy,1997,57998
+129,Jamaica,1997,1904
+130,Japan,1997,4218
+131,Jordan,1997,3068
+132,Korea Republic Of,1997,3908
+133,Lao People S Democratic Republic,1997,463
+134,Latvia,1997,1842
+135,Lesotho,1997,313
+136,Macao China,1997,7
+137,Malta,1997,1238
+138,Martinique,1997,900
+139,Mauritius,1997,558
+140,Mongolia,1997,82
+141,Namibia,1997,610
+142,New Caledonia,1997,139
+143,New Zealand,1997,1497
+144,Nicaragua,1997,453
+145,Romania,1997,5149
+146,Seychelles,1997,136
+147,Singapore,1997,7198
+148,Sint Maarten Dutch Part,1997,1325
+149,South Africa,1997,517
+150,Spain,1997,62415
+151,Sri Lanka,1997,384
+152,Taiwan Province Of China,1997,2372
+153,Trinidad And Tobago,1997,360
+154,United Kingdom,1997,25515
+155,United States Of America,1997,82525
+156,United States Virgin Islands,1997,2128
+157,Vanuatu,1997,81
+158,Viet Nam,1997,1716
+159,Albania,1998,184
+160,Algeria,1998,678
+161,Anguilla,1998,114
+162,Aruba,1998,906
+163,Azerbaijan,1998,483
+164,Bahamas,1998,3348
+165,Bahrain,1998,2898
+166,Bermuda,1998,558
+167,Bulgaria,1998,524
+168,Cayman Islands,1998,1275
+169,Costa Rica,1998,1167
+170,Croatia,1998,25499
+171,Curacao,1998,437
+172,Dominican Republic,1998,2702
+173,Georgia,1998,317
+174,Grenada,1998,392
+175,Guatemala,1998,636
+176,Haiti,1998,393
+177,Hong Kong China,1998,1016
+178,Hungary,1998,33624
+179,Iceland,1998,255
+180,Indonesia,1998,4606
+181,Italy,1998,58499
+182,Jamaica,1998,1899
+183,Japan,1998,4106
+184,Jordan,1998,3438
+185,Korea Republic Of,1998,425
+186,Lao People S Democratic Republic,1998,500
+187,Latvia,1998,1788
+188,Lesotho,1998,290
+189,Macao China,1998,6949
+190,Malta,1998,1326
+191,Martinique,1998,964
+192,Mauritius,1998,579
+193,Mongolia,1998,197
+194,Namibia,1998,681
+195,New Caledonia,1998,127
+196,New Zealand,1998,1485
+197,Nicaragua,1998,483
+198,Romania,1998,4831
+199,Seychelles,1998,134
+200,Singapore,1998,6242
+201,Sint Maarten Dutch Part,1998,1339
+202,South Africa,1998,5898
+203,Spain,1998,68068
+204,Sri Lanka,1998,409
+205,Taiwan Province Of China,1998,2299
+206,Trinidad And Tobago,1998,377
+207,United Kingdom,1998,25745
+208,United States Of America,1998,74767
+209,United States Virgin Islands,1998,2139
+210,Vanuatu,1998,78
+211,Viet Nam,1998,152
+212,Albania,1999,371
+213,Algeria,1999,749
+214,Anguilla,1999,107
+215,Aruba,1999,972
+216,Azerbaijan,1999,602
+217,Bahamas,1999,3648
+218,Bahrain,1999,328
+219,Bermuda,1999,549
+220,Bulgaria,1999,5056
+221,Cayman Islands,1999,1431
+222,Costa Rica,1999,1267
+223,Croatia,1999,29215
+224,Curacao,1999,433
+225,Dominican Republic,1999,2932
+226,Georgia,1999,384
+227,Grenada,1999,379
+228,Guatemala,1999,823
+229,Haiti,1999,386
+230,Hong Kong China,1999,11328
+231,Hungary,1999,28803
+232,Iceland,1999,281
+233,Indonesia,1999,4728
+234,Italy,1999,59521
+235,Jamaica,1999,2013
+236,Japan,1999,4438
+237,Jordan,1999,3231
+238,Korea Republic Of,1999,466
+239,Lao People S Democratic Republic,1999,614
+240,Latvia,1999,1738
+241,Lesotho,1999,308
+242,Macao China,1999,7444
+243,Malta,1999,1402
+244,Martinique,1999,903
+245,Mauritius,1999,600
+246,Mongolia,1999,160
+247,Namibia,1999,694
+248,New Caledonia,1999,151
+249,New Zealand,1999,1607
+250,Nicaragua,1999,530
+251,Romania,1999,5224
+252,Seychelles,1999,130
+253,Singapore,1999,6958
+254,Sint Maarten Dutch Part,1999,1061
+255,South Africa,1999,6026
+256,Spain,1999,7204
+257,Sri Lanka,1999,465
+258,Taiwan Province Of China,1999,2411
+259,Trinidad And Tobago,1999,421
+260,United Kingdom,1999,25394
+261,United States Of America,1999,75796
+262,United States Virgin Islands,1999,1964
+263,Vanuatu,1999,96
+264,Viet Nam,1999,1782
+265,Albania,2000,317
+266,Algeria,2000,866
+267,Anguilla,2000,112
+268,Aruba,2000,1211
+269,Azerbaijan,2000,681
+270,Bahamas,2000,4204
+271,Bahrain,2000,3869
+272,Bermuda,2000,539
+273,Bulgaria,2000,4922
+274,Cayman Islands,2000,1385
+275,Costa Rica,2000,1278
+276,Croatia,2000,37226
+277,Curacao,2000,514
+278,Dominican Republic,2000,3161
+279,Georgia,2000,387
+280,Grenada,2000,316
+281,Guatemala,2000,826
+282,Haiti,2000,445
+283,Hong Kong China,2000,13059
+284,Hungary,2000,31141
+285,Iceland,2000,328
+286,Indonesia,2000,5064
+287,Italy,2000,62702
+288,Jamaica,2000,223
+289,Japan,2000,4757
+290,Jordan,2000,27
+291,Korea Republic Of,2000,5322
+292,Lao People S Democratic Republic,2000,737
+293,Latvia,2000,1882
+294,Lesotho,2000,302
+295,Macao China,2000,9162
+296,Malta,2000,1387
+297,Martinique,2000,816
+298,Mauritius,2000,678
+299,Mongolia,2000,158
+300,Namibia,2000,759
+301,New Caledonia,2000,161
+302,New Zealand,2000,1787
+303,Nicaragua,2000,581
+304,Romania,2000,5264
+305,Seychelles,2000,140
+306,Singapore,2000,7691
+307,Sint Maarten Dutch Part,2000,13
+308,South Africa,2000,6001
+309,Spain,2000,7458
+310,Sri Lanka,2000,445
+311,Taiwan Province Of China,2000,2624
+312,Trinidad And Tobago,2000,503
+313,United Kingdom,2000,25209
+314,United States Of America,2000,78343
+315,United States Virgin Islands,2000,2396
+316,Vanuatu,2000,106
+317,Viet Nam,2000,214
+318,Albania,2001,354
+319,Algeria,2001,901
+320,Anguilla,2001,105
+321,Aruba,2001,1178
+322,Azerbaijan,2001,767
+323,Bahamas,2001,4183
+324,Bahrain,2001,4388
+325,Bermuda,2001,458
+326,Bulgaria,2001,5104
+327,Cayman Islands,2001,1549
+328,Costa Rica,2001,132
+329,Croatia,2001,40129
+330,Curacao,2001,519
+331,Dominican Republic,2001,309
+332,Georgia,2001,302
+333,Grenada,2001,277
+334,Guatemala,2001,835
+335,Haiti,2001,499
+336,Hong Kong China,2001,13725
+337,Hungary,2001,30679
+338,Iceland,2001,329
+339,Indonesia,2001,5153
+340,Italy,2001,6096
+341,Jamaica,2001,2117
+342,Japan,2001,4772
+343,Jordan,2001,3034
+344,Korea Republic Of,2001,5147
+345,Lao People S Democratic Republic,2001,674
+346,Latvia,2001,2061
+347,Lesotho,2001,295
+348,Macao China,2001,10279
+349,Malta,2001,1439
+350,Martinique,2001,663
+351,Mauritius,2001,675
+352,Mongolia,2001,192
+353,Namibia,2001,700
+354,New Caledonia,2001,152
+355,New Zealand,2001,1909
+356,Nicaragua,2001,584
+357,Romania,2001,4938
+358,Seychelles,2001,138
+359,Singapore,2001,7522
+360,Sint Maarten Dutch Part,2001,1271
+361,South Africa,2001,5908
+362,Spain,2001,75564
+363,Sri Lanka,2001,397
+364,Taiwan Province Of China,2001,2831
+365,Trinidad And Tobago,2001,468
+366,United Kingdom,2001,22835
+367,United States Of America,2001,70975
+368,United States Virgin Islands,2001,2497
+369,Vanuatu,2001,106
+370,Viet Nam,2001,233
+371,Albania,2002,470
+372,Algeria,2002,988
+373,Anguilla,2002,111
+374,Aruba,2002,1225
+375,Azerbaijan,2002,834
+376,Bahamas,2002,4406
+377,Bahrain,2002,4831
+378,Bermuda,2002,484
+379,Bulgaria,2002,5563
+380,Cayman Islands,2002,1878
+381,Costa Rica,2002,1335
+382,Croatia,2002,41737
+383,Curacao,2002,545
+384,Dominican Republic,2002,3058
+385,Georgia,2002,298
+386,Grenada,2002,271
+387,Guatemala,2002,884
+388,Haiti,2002,482
+389,Hong Kong China,2002,16566
+390,Hungary,2002,31739
+391,Iceland,2002,315
+392,Indonesia,2002,5033
+393,Italy,2002,63561
+394,Jamaica,2002,2131
+395,Japan,2002,5239
+396,Jordan,2002,4677
+397,Korea Republic Of,2002,5347
+398,Lao People S Democratic Republic,2002,736
+399,Latvia,2002,2297
+400,Lesotho,2002,287
+401,Macao China,2002,11531
+402,Malta,2002,1483
+403,Martinique,2002,654
+404,Mauritius,2002,709
+405,Mongolia,2002,235
+406,Namibia,2002,799
+407,New Caledonia,2002,158
+408,New Zealand,2002,2045
+409,Nicaragua,2002,579
+410,Romania,2002,4794
+411,Seychelles,2002,135
+412,Singapore,2002,7567
+413,Sint Maarten Dutch Part,2002,1436
+414,South Africa,2002,655
+415,Spain,2002,79313
+416,Sri Lanka,2002,457
+417,Taiwan Province Of China,2002,2978
+418,Trinidad And Tobago,2002,451
+419,United Kingdom,2002,2418
+420,United States Of America,2002,64434
+421,United States Virgin Islands,2002,2337
+422,Vanuatu,2002,99
+423,Viet Nam,2002,2628
+424,Albania,2003,557
+425,Algeria,2003,1166
+426,Anguilla,2003,109
+427,Aruba,2003,1184
+428,Azerbaijan,2003,1038
+429,Bahamas,2003,4594
+430,Bahrain,2003,4844
+431,Bermuda,2003,483
+432,Bulgaria,2003,6241
+433,Cayman Islands,2003,2113
+434,Costa Rica,2003,1514
+435,Croatia,2003,42857
+436,Curacao,2003,508
+437,Dominican Republic,2003,368
+438,Georgia,2003,313
+439,Grenada,2003,294
+440,Guatemala,2003,880
+441,Haiti,2003,518
+442,Hong Kong China,2003,15537
+443,Hungary,2003,31412
+444,Iceland,2003,348
+445,Indonesia,2003,4467
+446,Italy,2003,63026
+447,Jamaica,2003,2483
+448,Japan,2003,5212
+449,Jordan,2003,46
+450,Korea Republic Of,2003,4753
+451,Lao People S Democratic Republic,2003,636
+452,Latvia,2003,2524
+453,Lesotho,2003,329
+454,Macao China,2003,11888
+455,Malta,2003,1512
+456,Martinique,2003,722
+457,Mauritius,2003,721
+458,Mongolia,2003,205
+459,Namibia,2003,739
+460,New Caledonia,2003,166
+461,New Zealand,2003,2104
+462,Nicaragua,2003,646
+463,Romania,2003,5595
+464,Seychelles,2003,127
+465,Singapore,2003,6127
+466,Sint Maarten Dutch Part,2003,16
+467,South Africa,2003,664
+468,Spain,2003,82326
+469,Sri Lanka,2003,583
+470,Taiwan Province Of China,2003,2248
+471,Trinidad And Tobago,2003,474
+472,United Kingdom,2003,24715
+473,United States Of America,2003,62082
+474,United States Virgin Islands,2003,2395
+475,Vanuatu,2003,102
+476,Viet Nam,2003,2429
+477,Albania,2004,645
+478,Algeria,2004,1234
+479,Anguilla,2004,121
+480,Aruba,2004,1304
+481,Azerbaijan,2004,1279
+482,Bahamas,2004,5004
+483,Bahrain,2004,5667
+484,Bermuda,2004,478
+485,Bulgaria,2004,6982
+486,Cayman Islands,2004,1953
+487,Costa Rica,2004,1771
+488,Croatia,2004,44974
+489,Curacao,2004,452
+490,Dominican Republic,2004,3907
+491,Georgia,2004,368
+492,Grenada,2004,370
+493,Guatemala,2004,1182
+494,Haiti,2004,385
+495,Hong Kong China,2004,21811
+496,Hungary,2004,33934
+497,Iceland,2004,405
+498,Indonesia,2004,5321
+499,Italy,2004,5848
+500,Jamaica,2004,2515
+501,Japan,2004,6138
+502,Jordan,2004,5587
+503,Korea Republic Of,2004,5818
+504,Lao People S Democratic Republic,2004,895
+505,Latvia,2004,3127
+506,Lesotho,2004,304
+507,Macao China,2004,16673
+508,Malta,2004,1428
+509,Martinique,2004,630
+510,Mauritius,2004,739
+511,Mongolia,2004,305
+512,Namibia,2004,986
+513,New Caledonia,2004,177
+514,New Zealand,2004,2334
+515,Nicaragua,2004,735
+516,Romania,2004,66
+517,Seychelles,2004,126
+518,Singapore,2004,8329
+519,Sint Maarten Dutch Part,2004,1823
+520,South Africa,2004,6815
+521,Spain,2004,85981
+522,Sri Lanka,2004,681
+523,Taiwan Province Of China,2004,295
+524,Trinidad And Tobago,2004,501
+525,United Kingdom,2004,27755
+526,United States Of America,2004,67606
+527,United States Virgin Islands,2004,262
+528,Vanuatu,2004,99
+529,Viet Nam,2004,2928
+530,Albania,2005,748
+531,Algeria,2005,1443
+532,Anguilla,2005,143
+533,Aruba,2005,1286
+534,Azerbaijan,2005,1177
+535,Bahamas,2005,4779
+536,Bahrain,2005,6313
+537,Bermuda,2005,517
+538,Bulgaria,2005,7282
+539,Cayman Islands,2005,1967
+540,Costa Rica,2005,1959
+541,Croatia,2005,45762
+542,Curacao,2005,510
+543,Dominican Republic,2005,3981
+544,Georgia,2005,560
+545,Grenada,2005,380
+546,Guatemala,2005,1316
+547,Haiti,2005,480
+548,Hong Kong China,2005,23359
+549,Hungary,2005,36173
+550,Iceland,2005,429
+551,Indonesia,2005,5002
+552,Italy,2005,5923
+553,Jamaica,2005,2615
+554,Japan,2005,6728
+555,Jordan,2005,5817
+556,Korea Republic Of,2005,6023
+557,Lao People S Democratic Republic,2005,1095
+558,Latvia,2005,3791
+559,Lesotho,2005,304
+560,Macao China,2005,18711
+561,Malta,2005,1484
+562,Martinique,2005,577
+563,Mauritius,2005,782
+564,Mongolia,2005,345
+565,Namibia,2005,856
+566,New Caledonia,2005,182
+567,New Zealand,2005,2366
+568,Nicaragua,2005,804
+569,Romania,2005,5839
+570,Seychelles,2005,135
+571,Singapore,2005,8943
+572,Sint Maarten Dutch Part,2005,1956
+573,South Africa,2005,7518
+574,Spain,2005,92563
+575,Sri Lanka,2005,669
+576,Taiwan Province Of China,2005,3378
+577,Trinidad And Tobago,2005,529
+578,United Kingdom,2005,2997
+579,United States Of America,2005,71484
+580,United States Virgin Islands,2005,2602
+581,Vanuatu,2005,126
+582,Viet Nam,2005,3477
+583,Albania,2006,937
+584,Algeria,2006,1638
+585,Anguilla,2006,167
+586,Aruba,2006,1285
+587,Azerbaijan,2006,1194
+588,Bahamas,2006,4731
+589,Bahrain,2006,7289
+590,Bermuda,2006,635
+591,Bulgaria,2006,7499
+592,Cayman Islands,2006,2197
+593,Costa Rica,2006,2071
+594,Croatia,2006,47733
+595,Curacao,2006,572
+596,Dominican Republic,2006,4268
+597,Georgia,2006,983
+598,Grenada,2006,342
+599,Guatemala,2006,1502
+600,Haiti,2006,558
+601,Hong Kong China,2006,25251
+602,Hungary,2006,38318
+603,Iceland,2006,477
+604,Indonesia,2006,4871
+605,Italy,2006,66353
+606,Jamaica,2006,3016
+607,Japan,2006,7334
+608,Jordan,2006,6573
+609,Korea Republic Of,2006,6155
+610,Lao People S Democratic Republic,2006,1215
+611,Latvia,2006,4649
+612,Lesotho,2006,357
+613,Macao China,2006,21998
+614,Malta,2006,1521
+615,Martinique,2006,599
+616,Mauritius,2006,807
+617,Mongolia,2006,408
+618,Namibia,2006,961
+619,New Caledonia,2006,219
+620,New Zealand,2006,2409
+621,Nicaragua,2006,891
+622,Romania,2006,6037
+623,Seychelles,2006,151
+624,Singapore,2006,9751
+625,Sint Maarten Dutch Part,2006,189
+626,South Africa,2006,8509
+627,Spain,2006,96152
+628,Sri Lanka,2006,689
+629,Taiwan Province Of China,2006,352
+630,Trinidad And Tobago,2006,534
+631,United Kingdom,2006,32713
+632,United States Of America,2006,183178
+633,United States Virgin Islands,2006,2571
+634,Vanuatu,2006,154
+635,Viet Nam,2006,3583
+636,Albania,2007,1127
+637,Algeria,2007,1743
+638,Anguilla,2007,164
+639,Aruba,2007,1254
+640,Azerbaijan,2007,1333
+641,Bahamas,2007,4601
+642,Bahrain,2007,7833
+643,Bermuda,2007,660
+644,Bulgaria,2007,7726
+645,Cayman Islands,2007,2008
+646,Costa Rica,2007,2302
+647,Croatia,2007,52271
+648,Curacao,2007,664
+649,Dominican Republic,2007,4365
+650,Georgia,2007,1052
+651,Grenada,2007,406
+652,Guatemala,2007,1628
+653,Haiti,2007,868
+654,Hong Kong China,2007,28169
+655,Hungary,2007,39379
+656,Iceland,2007,539
+657,Indonesia,2007,5506
+658,Italy,2007,70271
+659,Jamaica,2007,288
+660,Japan,2007,8347
+661,Jordan,2007,6529
+662,Korea Republic Of,2007,6448
+663,Lao People S Democratic Republic,2007,1624
+664,Latvia,2007,5209
+665,Lesotho,2007,300
+666,Macao China,2007,27003
+667,Malta,2007,1723
+668,Martinique,2007,573
+669,Mauritius,2007,933
+670,Mongolia,2007,455
+671,Namibia,2007,1048
+672,New Caledonia,2007,227
+673,New Zealand,2007,2455
+674,Nicaragua,2007,978
+675,Romania,2007,7722
+676,Seychelles,2007,171
+677,Singapore,2007,10285
+678,Sint Maarten Dutch Part,2007,1891
+679,South Africa,2007,9208
+680,Spain,2007,98907
+681,Sri Lanka,2007,592
+682,Taiwan Province Of China,2007,3716
+683,Trinidad And Tobago,2007,531
+684,United Kingdom,2007,32778
+685,United States Of America,2007,175299
+686,United States Virgin Islands,2007,2606
+687,Vanuatu,2007,167
+688,Viet Nam,2007,4229
+689,Albania,2008,142
+690,Algeria,2008,1772
+691,Anguilla,2008,128
+692,Aruba,2008,1383
+693,Azerbaijan,2008,1899
+694,Bahamas,2008,4394
+695,Bahrain,2008,8631
+696,Bermuda,2008,550
+697,Bulgaria,2008,8533
+698,Cayman Islands,2008,1856
+699,Costa Rica,2008,2409
+700,Croatia,2008,51336
+701,Curacao,2008,773
+702,Dominican Republic,2008,4455
+703,Georgia,2008,129
+704,Grenada,2008,428
+705,Guatemala,2008,1715
+706,Haiti,2008,758
+707,Hong Kong China,2008,29507
+708,Hungary,2008,39554
+709,Iceland,2008,561
+710,Indonesia,2008,6234
+711,Italy,2008,70719
+712,Jamaica,2008,2859
+713,Japan,2008,8351
+714,Jordan,2008,71
+715,Korea Republic Of,2008,6891
+716,Lao People S Democratic Republic,2008,1737
+717,Latvia,2008,5496
+718,Lesotho,2008,293
+719,Macao China,2008,22933
+720,Malta,2008,1832
+721,Martinique,2008,568
+722,Mauritius,2008,970
+723,Mongolia,2008,469
+724,Namibia,2008,1079
+725,New Caledonia,2008,256
+726,New Zealand,2008,2483
+727,Nicaragua,2008,1011
+728,Romania,2008,8862
+729,Seychelles,2008,173
+730,Singapore,2008,10116
+731,Sint Maarten Dutch Part,2008,1821
+732,South Africa,2008,9729
+733,Spain,2008,9767
+734,Sri Lanka,2008,526
+735,Taiwan Province Of China,2008,3845
+736,Trinidad And Tobago,2008,482
+737,United Kingdom,2008,31888
+738,United States Of America,2008,175703
+739,United States Virgin Islands,2008,2435
+740,Vanuatu,2008,197
+741,Viet Nam,2008,4236
+742,Albania,2009,1856
+743,Algeria,2009,1912
+744,Anguilla,2009,112
+745,Aruba,2009,142
+746,Azerbaijan,2009,183
+747,Bahamas,2009,4645
+748,Bahrain,2009,8861
+749,Bermuda,2009,554
+750,Bulgaria,2009,7873
+751,Cayman Islands,2009,1792
+752,Costa Rica,2009,2309
+753,Croatia,2009,47573
+754,Curacao,2009,808
+755,Dominican Republic,2009,4489
+756,Georgia,2009,15
+757,Grenada,2009,460
+758,Guatemala,2009,1393
+759,Haiti,2009,826
+760,Hong Kong China,2009,29591
+761,Hungary,2009,40624
+762,Iceland,2009,563
+763,Indonesia,2009,6324
+764,Italy,2009,71692
+765,Jamaica,2009,2753
+766,Japan,2009,679
+767,Jordan,2009,7085
+768,Korea Republic Of,2009,7818
+769,Lao People S Democratic Republic,2009,2008
+770,Latvia,2009,4727
+771,Lesotho,2009,344
+772,Macao China,2009,21753
+773,Malta,2009,1608
+774,Martinique,2009,511
+775,Mauritius,2009,890
+776,Mongolia,2009,465
+777,Namibia,2009,11
+778,New Caledonia,2009,230
+779,New Zealand,2009,2473
+780,Nicaragua,2009,101
+781,Romania,2009,7575
+782,Seychelles,2009,178
+783,Singapore,2009,9683
+784,Sint Maarten Dutch Part,2009,1655
+785,South Africa,2009,9532
+786,Spain,2009,91899
+787,Sri Lanka,2009,538
+788,Taiwan Province Of China,2009,4395
+789,Trinidad And Tobago,2009,534
+790,United Kingdom,2009,31072
+791,United States Of America,2009,160508
+792,United States Virgin Islands,2009,2245
+793,Vanuatu,2009,226
+794,Viet Nam,2009,3747
+795,Albania,2010,2417
+796,Algeria,2010,207
+797,Anguilla,2010,118
+798,Aruba,2010,1394
+799,Azerbaijan,2010,1963
+800,Bahamas,2010,5255
+801,Bahrain,2010,11952
+802,Bermuda,2010,580
+803,Bulgaria,2010,8374
+804,Cayman Islands,2010,1886
+805,Costa Rica,2010,2495
+806,Croatia,2010,49006
+807,Curacao,2010,762
+808,Dominican Republic,2010,4478
+809,Georgia,2010,2032
+810,Grenada,2010,445
+811,Guatemala,2010,1384
+812,Haiti,2010,793
+813,Hong Kong China,2010,3603
+814,Hungary,2010,39904
+815,Iceland,2010,559
+816,Indonesia,2010,7003
+817,Italy,2010,73225
+818,Jamaica,2010,2832
+819,Japan,2010,8611
+820,Jordan,2010,8078
+821,Korea Republic Of,2010,8798
+822,Lao People S Democratic Republic,2010,2513
+823,Latvia,2010,5042
+824,Lesotho,2010,426
+825,Macao China,2010,24965
+826,Malta,2010,1815
+827,Martinique,2010,553
+828,Mauritius,2010,956
+829,Mongolia,2010,557
+830,Namibia,2010,1114
+831,New Caledonia,2010,282
+832,New Zealand,2010,253
+833,Nicaragua,2010,1071
+834,Romania,2010,7498
+835,Seychelles,2010,191
+836,Singapore,2010,11642
+837,Sint Maarten Dutch Part,2010,1956
+838,South Africa,2010,11303
+839,Spain,2010,93744
+840,Sri Lanka,2010,766
+841,Taiwan Province Of China,2010,5567
+842,Trinidad And Tobago,2010,490
+843,United Kingdom,2010,30398
+844,United States Of America,2010,162275
+845,United States Virgin Islands,2010,2531
+846,Vanuatu,2010,238
+847,Viet Nam,2010,505
+848,Albania,2011,2932
+849,Algeria,2011,2395
+850,Anguilla,2011,124
+851,Aruba,2011,1469
+852,Azerbaijan,2011,2239
+853,Bahamas,2011,5588
+854,Bahrain,2011,6732
+855,Bermuda,2011,652
+856,Bulgaria,2011,8713
+857,Cayman Islands,2011,171
+858,Costa Rica,2011,2526
+859,Croatia,2011,49969
+860,Curacao,2011,837
+861,Dominican Republic,2011,4654
+862,Georgia,2011,2712
+863,Grenada,2011,447
+864,Guatemala,2011,1434
+865,Haiti,2011,946
+866,Hong Kong China,2011,41921
+867,Hungary,2011,41304
+868,Iceland,2011,628
+869,Indonesia,2011,765
+870,Italy,2011,75866
+871,Jamaica,2011,3077
+872,Japan,2011,6219
+873,Jordan,2011,6813
+874,Korea Republic Of,2011,9795
+875,Lao People S Democratic Republic,2011,2724
+876,Latvia,2011,5538
+877,Lesotho,2011,398
+878,Macao China,2011,28002
+879,Malta,2011,1916
+880,Martinique,2011,538
+881,Mauritius,2011,983
+882,Mongolia,2011,627
+883,Namibia,2011,1163
+884,New Caledonia,2011,348
+885,New Zealand,2011,2617
+886,Nicaragua,2011,1122
+887,Romania,2011,7611
+888,Seychelles,2011,210
+889,Singapore,2011,13171
+890,Sint Maarten Dutch Part,2011,208
+891,South Africa,2011,12097
+892,Spain,2011,99187
+893,Sri Lanka,2011,976
+894,Taiwan Province Of China,2011,6087
+895,Trinidad And Tobago,2011,491
+896,United Kingdom,2011,31886
+897,United States Of America,2011,147271
+898,United States Virgin Islands,2011,2686
+899,Vanuatu,2011,249
+900,Viet Nam,2011,6014
+901,Albania,2012,3514
+902,Algeria,2012,2634
+903,Anguilla,2012,129
+904,Aruba,2012,1481
+905,Azerbaijan,2012,2484
+906,Bahamas,2012,594
+907,Bahrain,2012,8062
+908,Bermuda,2012,610
+909,Bulgaria,2012,8867
+910,Cayman Islands,2012,1829
+911,Costa Rica,2012,2542
+912,Croatia,2012,47185
+913,Curacao,2012,908
+914,Dominican Republic,2012,4901
+915,Georgia,2012,4106
+916,Grenada,2012,370
+917,Guatemala,2012,1491
+918,Haiti,2012,959
+919,Hong Kong China,2012,48615
+920,Hungary,2012,43565
+921,Iceland,2012,765
+922,Indonesia,2012,8044
+923,Italy,2012,76293
+924,Jamaica,2012,3306
+925,Japan,2012,8358
+926,Jordan,2012,6314
+927,Korea Republic Of,2012,1114
+928,Lao People S Democratic Republic,2012,333
+929,Latvia,2012,5569
+930,Lesotho,2012,423
+931,Macao China,2012,28082
+932,Malta,2012,2007
+933,Martinique,2012,603
+934,Mauritius,2012,984
+935,Mongolia,2012,624
+936,Namibia,2012,1245
+937,New Caledonia,2012,390
+938,New Zealand,2012,2574
+939,Nicaragua,2012,1233
+940,Romania,2012,7937
+941,Seychelles,2012,216
+942,Singapore,2012,14496
+943,Sint Maarten Dutch Part,2012,221
+944,South Africa,2012,13069
+945,Spain,2012,98128
+946,Sri Lanka,2012,1133
+947,Taiwan Province Of China,2012,7311
+948,Trinidad And Tobago,2012,504
+949,United Kingdom,2012,32221
+950,United States Of America,2012,17163
+951,United States Virgin Islands,2012,264
+952,Vanuatu,2012,321
+953,Viet Nam,2012,6848
+954,Albania,2013,3256
+955,Algeria,2013,2733
+956,Anguilla,2013,151
+957,Aruba,2013,1667
+958,Azerbaijan,2013,2509
+959,Bahamas,2013,6151
+960,Bahrain,2013,9163
+961,Bermuda,2013,576
+962,Bulgaria,2013,9192
+963,Cayman Islands,2013,1721
+964,Costa Rica,2013,2641
+965,Croatia,2013,48345
+966,Curacao,2013,1071
+967,Dominican Republic,2013,5114
+968,Georgia,2013,4954
+969,Grenada,2013,327
+970,Guatemala,2013,1516
+971,Haiti,2013,1064
+972,Hong Kong China,2013,54299
+973,Hungary,2013,43611
+974,Iceland,2013,900
+975,Indonesia,2013,8802
+976,Italy,2013,76762
+977,Jamaica,2013,3274
+978,Japan,2013,10364
+979,Jordan,2013,5389
+980,Korea Republic Of,2013,12176
+981,Lao People S Democratic Republic,2013,3779
+982,Latvia,2013,5822
+983,Lesotho,2013,433
+984,Macao China,2013,29325
+985,Malta,2013,2013
+986,Martinique,2013,622
+987,Mauritius,2013,1015
+988,Mongolia,2013,515
+989,Namibia,2013,1327
+990,New Caledonia,2013,494
+991,New Zealand,2013,271
+992,Nicaragua,2013,1273
+993,Romania,2013,8019
+994,Seychelles,2013,237
+995,Singapore,2013,15568
+996,Sint Maarten Dutch Part,2013,2253
+997,South Africa,2013,14318
+998,Spain,2013,103231
+999,Sri Lanka,2013,1415
+1000,Taiwan Province Of China,2013,8016
+1001,Trinidad And Tobago,2013,467
+1002,United Kingdom,2013,33567
+1003,United States Of America,2013,17931
+1004,United States Virgin Islands,2013,2702
+1005,Vanuatu,2013,357
+1006,Viet Nam,2013,7572
+1007,Albania,2014,3673
+1008,Algeria,2014,2301
+1009,Anguilla,2014,177
+1010,Aruba,2014,1739
+1011,Azerbaijan,2014,2298
+1012,Bahamas,2014,632
+1013,Bahrain,2014,10452
+1014,Bermuda,2014,580
+1015,Bulgaria,2014,9409
+1016,Cayman Islands,2014,1993
+1017,Costa Rica,2014,276
+1018,Croatia,2014,51168
+1019,Curacao,2014,1129
+1020,Dominican Republic,2014,5576
+1021,Georgia,2014,5004
+1022,Grenada,2014,387
+1023,Guatemala,2014,1739
+1024,Haiti,2014,1128
+1025,Hong Kong China,2014,60839
+1026,Hungary,2014,45984
+1027,Iceland,2014,1102
+1028,Indonesia,2014,9435
+1029,Italy,2014,77694
+1030,Jamaica,2014,3504
+1031,Japan,2014,13413
+1032,Jordan,2014,5327
+1033,Korea Republic Of,2014,14202
+1034,Lao People S Democratic Republic,2014,4159
+1035,Latvia,2014,6246
+1036,Lesotho,2014,1079
+1037,Macao China,2014,31526
+1038,Malta,2014,2162
+1039,Martinique,2014,696
+1040,Mauritius,2014,1065
+1041,Mongolia,2014,506
+1042,Namibia,2014,1429
+1043,New Caledonia,2014,529
+1044,New Zealand,2014,2854
+1045,Nicaragua,2014,139
+1046,Romania,2014,8442
+1047,Seychelles,2014,239
+1048,Singapore,2014,15095
+1049,Sint Maarten Dutch Part,2014,2502
+1050,South Africa,2014,1453
+1051,Spain,2014,107144
+1052,Sri Lanka,2014,1665
+1053,Taiwan Province Of China,2014,991
+1054,Trinidad And Tobago,2014,455
+1055,United Kingdom,2014,35337
+1056,United States Of America,2014,178311
+1057,United States Virgin Islands,2014,2814
+1058,Vanuatu,2014,329
+1059,Viet Nam,2014,7874
+1060,Albania,2015,4131
+1061,Algeria,2015,171
+1062,Anguilla,2015,186
+1063,Aruba,2015,1832
+1064,Azerbaijan,2015,2006
+1065,Bahamas,2015,6112
+1066,Bahrain,2015,967
+1067,Bermuda,2015,597
+1068,Bulgaria,2015,9317
+1069,Cayman Islands,2015,2102
+1070,Costa Rica,2015,2899
+1071,Croatia,2015,55858
+1072,Curacao,2015,1072
+1073,Dominican Republic,2015,6129
+1074,Georgia,2015,5256
+1075,Grenada,2015,437
+1076,Guatemala,2015,1865
+1077,Haiti,2015,119
+1078,Hong Kong China,2015,59308
+1079,Hungary,2015,48345
+1080,Iceland,2015,1389
+1081,Indonesia,2015,10407
+1082,Italy,2015,81068
+1083,Jamaica,2015,3692
+1084,Japan,2015,19737
+1085,Jordan,2015,4809
+1086,Korea Republic Of,2015,13232
+1087,Lao People S Democratic Republic,2015,4684
+1088,Latvia,2015,6842
+1089,Lesotho,2015,1082
+1090,Macao China,2015,30715
+1091,Malta,2015,2383
+1092,Martinique,2015,762
+1093,Mauritius,2015,1174
+1094,Mongolia,2015,467
+1095,Namibia,2015,1488
+1096,New Caledonia,2015,558
+1097,New Zealand,2015,3129
+1098,Nicaragua,2015,1456
+1099,Romania,2015,9331
+1100,Seychelles,2015,296
+1101,Singapore,2015,15232
+1102,Sint Maarten Dutch Part,2015,2407
+1103,South Africa,2015,13952
+1104,Spain,2015,109834
+1105,Sri Lanka,2015,1993
+1106,Taiwan Province Of China,2015,1044
+1107,Trinidad And Tobago,2015,519
+1108,United Kingdom,2015,36792
+1109,United States Of America,2015,176865
+1110,United States Virgin Islands,2015,2643
+1111,Vanuatu,2015,287
+1112,Viet Nam,2015,7944
+1113,Albania,2016,4736
+1114,Algeria,2016,2039
+1115,Anguilla,2016,176
+1116,Aruba,2016,1758
+1117,Azerbaijan,2016,2249
+1118,Bahamas,2016,6265
+1119,Bahrain,2016,10158
+1120,Bermuda,2016,642
+1121,Bulgaria,2016,10604
+1122,Cayman Islands,2016,2097
+1123,Costa Rica,2016,3204
+1124,Croatia,2016,57587
+1125,Curacao,2016,944
+1126,Dominican Republic,2016,6769
+1127,Georgia,2016,5393
+1128,Grenada,2016,474
+1129,Guatemala,2016,1906
+1130,Haiti,2016,1153
+1131,Hong Kong China,2016,56655
+1132,Hungary,2016,5289
+1133,Iceland,2016,1891
+1134,Indonesia,2016,11519
+1135,Italy,2016,84925
+1136,Jamaica,2016,3837
+1137,Japan,2016,2404
+1138,Jordan,2016,4236
+1139,Korea Republic Of,2016,17242
+1140,Lao People S Democratic Republic,2016,4239
+1141,Latvia,2016,6797
+1142,Lesotho,2016,1196
+1143,Macao China,2016,3095
+1144,Malta,2016,2592
+1145,Martinique,2016,842
+1146,Mauritius,2016,1307
+1147,Mongolia,2016,471
+1148,Namibia,2016,1551
+1149,New Caledonia,2016,625
+1150,New Zealand,2016,3494
+1151,Nicaragua,2016,1596
+1152,Romania,2016,10223
+1153,Seychelles,2016,333
+1154,Singapore,2016,16403
+1155,Sint Maarten Dutch Part,2016,2197
+1156,South Africa,2016,15121
+1157,Spain,2016,115561
+1158,Sri Lanka,2016,2168
+1159,Taiwan Province Of China,2016,1069
+1160,Trinidad And Tobago,2016,492
+1161,United Kingdom,2016,39129
+1162,United States Of America,2016,175261
+1163,United States Virgin Islands,2016,2574
+1164,Vanuatu,2016,351
+1165,Viet Nam,2016,10013
+1166,Albania,2017,5118
+1167,Algeria,2017,2451
+1168,Anguilla,2017,151
+1169,Aruba,2017,1863
+1170,Azerbaijan,2017,2697
+1171,Bahamas,2017,6136
+1172,Bahrain,2017,11374
+1173,Bermuda,2017,688
+1174,Bulgaria,2017,11596
+1175,Cayman Islands,2017,2147
+1176,Costa Rica,2017,3231
+1177,Croatia,2017,59238
+1178,Curacao,2017,1058
+1179,Dominican Republic,2017,7296
+1180,Georgia,2017,6483
+1181,Grenada,2017,468
+1182,Guatemala,2017,2113
+1183,Haiti,2017,1262
+1184,Hong Kong China,2017,58472
+1185,Hungary,2017,54962
+1186,Iceland,2017,2353
+1187,Indonesia,2017,1404
+1188,Italy,2017,89931
+1189,Jamaica,2017,4276
+1190,Japan,2017,28691
+1191,Jordan,2017,4565
+1192,Korea Republic Of,2017,13336
+1193,Lao People S Democratic Republic,2017,3869
+1194,Latvia,2017,7726
+1195,Lesotho,2017,1137
+1196,Macao China,2017,32611
+1197,Malta,2017,2944
+1198,Martinique,2017,1003
+1199,Mauritius,2017,1371
+1200,Mongolia,2017,543
+1201,Namibia,2017,1581
+1202,New Caledonia,2017,626
+1203,New Zealand,2017,3723
+1204,Nicaragua,2017,1958
+1205,Romania,2017,10926
+1206,Seychelles,2017,382
+1207,Singapore,2017,17425
+1208,Sint Maarten Dutch Part,2017,164
+1209,South Africa,2017,14975
+1210,Spain,2017,121717
+1211,Sri Lanka,2017,2248
+1212,Taiwan Province Of China,2017,1074
+1213,Trinidad And Tobago,2017,465
+1214,United Kingdom,2017,4108
+1215,United States Of America,2017,174292
+1216,United States Virgin Islands,2017,1967
+1217,Vanuatu,2017,333
+1218,Viet Nam,2017,12922
+1219,Albania,2018,5927
+1220,Algeria,2018,2657
+1221,Anguilla,2018,87
+1222,Aruba,2018,1897
+1223,Azerbaijan,2018,285
+1224,Bahamas,2018,6622
+1225,Bahrain,2018,12045
+1226,Bermuda,2018,766
+1227,Bulgaria,2018,12368
+1228,Cayman Islands,2018,2384
+1229,Costa Rica,2018,3313
+1230,Croatia,2018,57668
+1231,Curacao,2018,121
+1232,Dominican Republic,2018,7551
+1233,Georgia,2018,7203
+1234,Grenada,2018,529
+1235,Guatemala,2018,2406
+1236,Haiti,2018,1333
+1237,Hong Kong China,2018,65148
+1238,Hungary,2018,57667
+1239,Iceland,2018,2488
+1240,Indonesia,2018,1581
+1241,Italy,2018,93229
+1242,Jamaica,2018,4319
+1243,Japan,2018,31192
+1244,Jordan,2018,4922
+1245,Korea Republic Of,2018,15347
+1246,Lao People S Democratic Republic,2018,4186
+1247,Latvia,2018,7775
+1248,Lesotho,2018,1173
+1249,Macao China,2018,35804
+1250,Malta,2018,3232
+1251,Martinique,2018,1002
+1252,Mauritius,2018,1431
+1253,Mongolia,2018,598
+1254,Namibia,2018,1639
+1255,New Caledonia,2018,576
+1256,New Zealand,2018,3858
+1257,Nicaragua,2018,1412
+1258,Romania,2018,1172
+1259,Seychelles,2018,405
+1260,Singapore,2018,18508
+1261,Sint Maarten Dutch Part,2018,1775
+1262,South Africa,2018,15004
+1263,Spain,2018,124456
+1264,Sri Lanka,2018,2521
+1265,Taiwan Province Of China,2018,11067
+1266,Trinidad And Tobago,2018,501
+1267,United Kingdom,2018,40283
+1268,United States Of America,2018,169325
+1269,United States Virgin Islands,2018,1922
+1270,Vanuatu,2018,350
+1271,Viet Nam,2018,15498
+1272,Albania,2019,6406
+1273,Algeria,2019,2371
+1274,Anguilla,2019,166
+1275,Aruba,2019,1951
+1276,Azerbaijan,2019,3168
+1277,Bahamas,2019,725
+1278,Bahrain,2019,11061
+1279,Bermuda,2019,805
+1280,Bulgaria,2019,12552
+1281,Cayman Islands,2019,2334
+1282,Costa Rica,2019,3366
+1283,Croatia,2019,60021
+1284,Curacao,2019,1293
+1285,Dominican Republic,2019,755
+1286,Georgia,2019,7726
+1287,Grenada,2019,526
+1288,Guatemala,2019,256
+1289,Haiti,2019,938
+1290,Hong Kong China,2019,55913
+1291,Hungary,2019,61397
+1292,Iceland,2019,2202
+1293,Indonesia,2019,16107
+1294,Italy,2019,95399
+1295,Jamaica,2019,4233
+1296,Japan,2019,31882
+1297,Jordan,2019,5361
+1298,Korea Republic Of,2019,17503
+1299,Lao People S Democratic Republic,2019,4791
+1300,Latvia,2019,8342
+1301,Lesotho,2019,1142
+1302,Macao China,2019,39406
+1303,Malta,2019,3519
+1304,Martinique,2019,919
+1305,Mauritius,2019,1418
+1306,Mongolia,2019,637
+1307,Namibia,2019,1651
+1308,New Caledonia,2019,474
+1309,New Zealand,2019,3888
+1310,Nicaragua,2019,1455
+1311,Romania,2019,12815
+1312,Seychelles,2019,428
+1313,Singapore,2019,19116
+1314,Sint Maarten Dutch Part,2019,1952
+1315,South Africa,2019,14797
+1316,Spain,2019,12617
+1317,Sri Lanka,2019,2027
+1318,Taiwan Province Of China,2019,11864
+1319,Trinidad And Tobago,2019,480
+1320,United Kingdom,2019,40857
+1321,United States Of America,2019,166009
+1322,United States Virgin Islands,2019,2074
+1323,Vanuatu,2019,256
+1324,Viet Nam,2019,18009
